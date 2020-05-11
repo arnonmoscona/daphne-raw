@@ -1,0 +1,5 @@
+Island,Species,Beak length,Sample size,SD,Beak width,SD,CI Beak length,CI Beak depth
+Floreana,fortis,11.26,278,0.9,9.56,1.05,,
+Santa Cruz,fortis,11.66,159,0.87,9.96,0.98,,
+Santiago,fortis,11.16,85,0.63,9.56,0.66,,
+R

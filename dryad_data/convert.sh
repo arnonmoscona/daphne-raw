@@ -1,0 +1,82 @@
+tr '\r' '\n' < Fig.\ 01-06\ \(also\ 7.3\).csv > converted/Fig.\ 01-06\ \(also\ 7.3\).csv
+tr '\r' '\n' < Fig.\ 01-07.csv > converted/Fig.\ 01-07.csv
+tr '\r' '\n' < Fig.\ 02-01.csv > converted/Fig.\ 02-01.csv
+tr '\r' '\n' < Fig.\ 02-02.csv > converted/Fig.\ 02-02.csv
+tr '\r' '\n' < Fig.\ 02-09.csv > converted/Fig.\ 02-09.csv
+tr '\r' '\n' < Fig.\ 02-11.csv > converted/Fig.\ 02-11.csv
+tr '\r' '\n' < Fig.\ 02-15.csv > converted/Fig.\ 02-15.csv
+tr '\r' '\n' < Fig.\ 03-01.csv > converted/Fig.\ 03-01.csv
+tr '\r' '\n' < Fig.\ 03-02.csv > converted/Fig.\ 03-02.csv
+tr '\r' '\n' < Fig.\ 03-03\ fortis.csv > converted/Fig.\ 03-03\ fortis.csv
+tr '\r' '\n' < Fig.\ 03-03scand.csv > converted/Fig.\ 03-03scand.csv
+tr '\r' '\n' < Fig.\ 03-04.csv > converted/Fig.\ 03-04.csv
+tr '\r' '\n' < Fig.\ 04-04.csv > converted/Fig.\ 04-04.csv
+tr '\r' '\n' < Fig.\ 04-05.csv > converted/Fig.\ 04-05.csv
+tr '\r' '\n' < Fig.\ 04-06.csv > converted/Fig.\ 04-06.csv
+tr '\r' '\n' < Fig.\ 04-12.csv > converted/Fig.\ 04-12.csv
+tr '\r' '\n' < Fig.\ 04-13.csv > converted/Fig.\ 04-13.csv
+tr '\r' '\n' < Fig.\ 04-14.csv > converted/Fig.\ 04-14.csv
+tr '\r' '\n' < Fig.\ 05-02.csv > converted/Fig.\ 05-02.csv
+tr '\r' '\n' < Fig.\ 05-03.csv > converted/Fig.\ 05-03.csv
+tr '\r' '\n' < Fig.\ 05-04.csv > converted/Fig.\ 05-04.csv
+tr '\r' '\n' < Fig.\ 05-05.csv > converted/Fig.\ 05-05.csv
+tr '\r' '\n' < Fig.\ 05-06.csv > converted/Fig.\ 05-06.csv
+tr '\r' '\n' < Fig.\ 05-07.csv > converted/Fig.\ 05-07.csv
+tr '\r' '\n' < Fig.\ 05-08.csv > converted/Fig.\ 05-08.csv
+tr '\r' '\n' < Fig.\ 05-09.csv > converted/Fig.\ 05-09.csv
+tr '\r' '\n' < Fig.\ 05-14.csv > converted/Fig.\ 05-14.csv
+tr '\r' '\n' < Fig.\ 05-15.csv > converted/Fig.\ 05-15.csv
+tr '\r' '\n' < Fig.\ 06-01.csv > converted/Fig.\ 06-01.csv
+tr '\r' '\n' < Fig.\ 06-03.csv > converted/Fig.\ 06-03.csv
+tr '\r' '\n' < Fig.\ 06-04.csv > converted/Fig.\ 06-04.csv
+tr '\r' '\n' < Fig.\ 06-05.csv > converted/Fig.\ 06-05.csv
+tr '\r' '\n' < Fig.\ 06-06.csv > converted/Fig.\ 06-06.csv
+tr '\r' '\n' < Fig.\ 06-07.csv > converted/Fig.\ 06-07.csv
+tr '\r' '\n' < Fig.\ 06-09.csv > converted/Fig.\ 06-09.csv
+tr '\r' '\n' < Fig.\ 06-11.csv > converted/Fig.\ 06-11.csv
+tr '\r' '\n' < Fig.\ 07-01.csv > converted/Fig.\ 07-01.csv
+tr '\r' '\n' < Fig.\ 07-05.csv > converted/Fig.\ 07-05.csv
+tr '\r' '\n' < Fig.\ 07-06.csv > converted/Fig.\ 07-06.csv
+tr '\r' '\n' < Fig.\ 08-10.csv > converted/Fig.\ 08-10.csv
+tr '\r' '\n' < Fig.\ 08-11.csv > converted/Fig.\ 08-11.csv
+tr '\r' '\n' < Fig.\ 08-12\ lower.csv > converted/Fig.\ 08-12\ lower.csv
+tr '\r' '\n' < Fig.\ 09-03.csv > converted/Fig.\ 09-03.csv
+tr '\r' '\n' < Fig.\ 09-06.csv > converted/Fig.\ 09-06.csv
+tr '\r' '\n' < Fig.\ 10-01.csv > converted/Fig.\ 10-01.csv
+tr '\r' '\n' < Fig.\ 10-03\ data,\ 12.csv > converted/Fig.\ 10-03\ data,\ 12.csv
+tr '\r' '\n' < Fig.\ 10-03\ data,\ 75.csv > converted/Fig.\ 10-03\ data,\ 75.csv
+tr '\r' '\n' < Fig.\ 10-03\ data,\ 87.csv > converted/Fig.\ 10-03\ data,\ 87.csv
+tr '\r' '\n' < Fig.\ 10-03\ data,\ 91.csv > converted/Fig.\ 10-03\ data,\ 91.csv
+tr '\r' '\n' < Fig.\ 10-04.csv > converted/Fig.\ 10-04.csv
+tr '\r' '\n' < Fig.\ 10-05.csv > converted/Fig.\ 10-05.csv
+tr '\r' '\n' < Fig.\ 10-06.csv > converted/Fig.\ 10-06.csv
+tr '\r' '\n' < Fig.\ 10-07.csv > converted/Fig.\ 10-07.csv
+tr '\r' '\n' < Fig.\ 10-08.csv > converted/Fig.\ 10-08.csv
+tr '\r' '\n' < Fig.\ 10-09.csv > converted/Fig.\ 10-09.csv
+tr '\r' '\n' < Fig.\ 10-10.csv > converted/Fig.\ 10-10.csv
+tr '\r' '\n' < Fig.\ 10-11.csv > converted/Fig.\ 10-11.csv
+tr '\r' '\n' < Fig.\ 10-12.csv > converted/Fig.\ 10-12.csv
+tr '\r' '\n' < Fig.\ 11-01.csv > converted/Fig.\ 11-01.csv
+tr '\r' '\n' < Fig.\ 11-02.csv > converted/Fig.\ 11-02.csv
+tr '\r' '\n' < Fig.\ 11-03.csv > converted/Fig.\ 11-03.csv
+tr '\r' '\n' < Fig.\ 11-04.csv > converted/Fig.\ 11-04.csv
+tr '\r' '\n' < Fig.\ 11-05.csv > converted/Fig.\ 11-05.csv
+tr '\r' '\n' < Fig.\ 11-07.csv > converted/Fig.\ 11-07.csv
+tr '\r' '\n' < Fig.\ 11-08.csv > converted/Fig.\ 11-08.csv
+tr '\r' '\n' < Fig.\ 11-09.csv > converted/Fig.\ 11-09.csv
+tr '\r' '\n' < Fig.\ 11-10.csv > converted/Fig.\ 11-10.csv
+tr '\r' '\n' < Fig.\ 11-11.csv > converted/Fig.\ 11-11.csv
+tr '\r' '\n' < Fig.\ 11-12.csv > converted/Fig.\ 11-12.csv
+tr '\r' '\n' < Fig.\ 12-05.csv > converted/Fig.\ 12-05.csv
+tr '\r' '\n' < Fig.\ 13-13.csv > converted/Fig.\ 13-13.csv
+tr '\r' '\n' < Fig.\ 13-14.csv > converted/Fig.\ 13-14.csv
+tr '\r' '\n' < Fig.\ 13-15.csv > converted/Fig.\ 13-15.csv
+tr '\r' '\n' < Fig.\ 13-17.csv > converted/Fig.\ 13-17.csv
+tr '\r' '\n' < Fig.\ 14-01.csv > converted/Fig.\ 14-01.csv
+tr '\r' '\n' < Fig.\ 14-02.csv > converted/Fig.\ 14-02.csv
+tr '\r' '\n' < Fig.\ 14-03.csv > converted/Fig.\ 14-03.csv
+tr '\r' '\n' < Fig.\ 17-02.csv > converted/Fig.\ 17-02.csv
+tr '\r' '\n' < Fig.\ 17-03.csv > converted/Fig.\ 17-03.csv
+tr '\r' '\n' < Fig.\ A-03-03.csv > converted/Fig.\ A-03-03.csv
+tr '\r' '\n' < Fig.\ A-17-01.csv > converted/Fig.\ A-17-01.csv
+tr '\r' '\n' < Fig.\ B1-02.csv > converted/Fig.\ B1-02.csv
